@@ -1,0 +1,20 @@
+.a1{
+    color: chartreuse;
+
+}
+.ch1{
+    background-color: brown;
+   
+    height: 600px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+   
+
+}
+.a2{
+    grid-template-rows: auto auto auto;
+    background-color: gray;
+
+}
